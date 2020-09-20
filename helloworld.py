@@ -1,6 +1,6 @@
 """
-This is a program that prints 'Hello world!' to the screen
-in the command line and Git Bash.
+This is a program that prints 'Hello world!'
+to the screen in the command line and Git Bash.
 To use it run `helloworld.py`.
 """
 
